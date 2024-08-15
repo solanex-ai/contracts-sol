@@ -1,0 +1,8 @@
+.anchor
+.DS_Store
+.vscode/
+target
+**/*.rs.bk
+node_modules
+authAdmin.json
+nft-update.json

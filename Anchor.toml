@@ -1,0 +1,9 @@
+[programs.localnet]
+ai_dex = "aij9zGKP31THhYTKFVbkrbzXdWywBSvFJYi6TSWqkzE"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "https://api.devnet.solana.com"
+wallet = "~/.config/solana/id.json"
